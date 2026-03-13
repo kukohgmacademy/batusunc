@@ -1,0 +1,281 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Tours Section
+--------------------------------------------------------------*/
+.tours {
+  .intro-block {
+    margin-bottom: 50px;
+
+    .subtitle {
+      display: inline-block;
+      font-size: 13px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: var(--accent-color);
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 15px;
+    }
+
+    p {
+      max-width: 560px;
+      margin: 0 auto;
+      font-size: 15px;
+      color: color-mix(in srgb, var(--default-color), transparent 30%);
+    }
+  }
+
+  .isotope-layout {
+    .tour-tabs {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 40px 0;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      border-bottom: 2px solid color-mix(in srgb, var(--default-color), transparent 90%);
+
+      li {
+        cursor: pointer;
+        padding: 10px 22px;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        transition: color 0.3s, border-color 0.3s;
+        border-bottom: 2px solid transparent;
+        margin-bottom: -2px;
+        color: color-mix(in srgb, var(--default-color), transparent 40%);
+
+        &.filter-active,
+        &:hover {
+          color: var(--accent-color);
+          border-bottom-color: var(--accent-color);
+        }
+      }
+    }
+  }
+
+  .tour-card {
+    background-color: var(--surface-color);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 20px color-mix(in srgb, var(--default-color), transparent 92%);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    height: 100%;
+
+    &:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 30px color-mix(in srgb, var(--default-color), transparent 85%);
+    }
+
+    .card-img-wrapper {
+      position: relative;
+      height: 100%;
+      min-height: 260px;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+      }
+
+      &::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 50%;
+        background: linear-gradient(to top, color-mix(in srgb, #000, transparent 40%), transparent);
+        pointer-events: none;
+      }
+
+      .badge-label {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        background: var(--accent-color);
+        color: var(--contrast-color);
+        padding: 4px 14px;
+        border-radius: 20px;
+        font-size: 11px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        z-index: 2;
+
+        &.premium {
+          background: linear-gradient(135deg, #c9a54e, #f0d080);
+          color: #1a1a1a;
+        }
+      }
+
+      .card-rating {
+        position: absolute;
+        bottom: 12px;
+        left: 12px;
+        z-index: 2;
+        display: flex;
+        align-items: center;
+        gap: 3px;
+
+        i {
+          color: #f5c518;
+          font-size: 12px;
+        }
+
+        span {
+          color: var(--contrast-color);
+          font-size: 13px;
+          font-weight: 700;
+          margin-left: 4px;
+        }
+      }
+    }
+
+    &:hover .card-img-wrapper img {
+      transform: scale(1.08);
+    }
+
+    .card-body {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+
+      .card-location {
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--accent-color);
+        margin-bottom: 8px;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+
+        i {
+          font-size: 14px;
+        }
+      }
+
+      h3 {
+        font-size: 19px;
+        font-weight: 700;
+        margin-bottom: 10px;
+        line-height: 1.3;
+
+        a {
+          color: var(--heading-color);
+          transition: color 0.3s;
+
+          &:hover {
+            color: var(--accent-color);
+          }
+        }
+      }
+
+      p {
+        font-size: 14px;
+        color: color-mix(in srgb, var(--default-color), transparent 25%);
+        margin-bottom: 16px;
+        flex-grow: 1;
+        line-height: 1.6;
+      }
+
+      .card-details {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+        padding: 14px 0;
+        border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+        border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+        margin-bottom: 16px;
+
+        .detail-item {
+          font-size: 13px;
+          color: color-mix(in srgb, var(--default-color), transparent 30%);
+          display: flex;
+          align-items: center;
+          gap: 5px;
+
+          i {
+            color: var(--accent-color);
+            font-size: 15px;
+          }
+        }
+      }
+
+      .card-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .price-tag {
+          font-size: 20px;
+          font-weight: 800;
+          color: var(--accent-color);
+
+          span {
+            font-size: 12px;
+            font-weight: 400;
+            color: color-mix(in srgb, var(--default-color), transparent 40%);
+          }
+        }
+
+        .btn-book {
+          display: inline-flex;
+          align-items: center;
+          gap: 6px;
+          font-size: 14px;
+          font-weight: 600;
+          color: var(--accent-color);
+          padding: 8px 20px;
+          border: 2px solid var(--accent-color);
+          border-radius: 6px;
+          transition: all 0.3s ease;
+
+          i {
+            transition: transform 0.3s ease;
+          }
+
+          &:hover {
+            background-color: var(--accent-color);
+            color: var(--contrast-color);
+
+            i {
+              transform: translateX(4px);
+            }
+          }
+        }
+      }
+    }
+
+    @media (max-width: 768px) {
+      .card-img-wrapper {
+        min-height: 220px;
+        max-height: 240px;
+      }
+
+      .card-body {
+        .card-footer {
+          flex-direction: column;
+          gap: 12px;
+          align-items: flex-start;
+
+          .btn-book {
+            width: 100%;
+            justify-content: center;
+          }
+        }
+      }
+    }
+  }
+}

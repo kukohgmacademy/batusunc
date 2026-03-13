@@ -1,0 +1,219 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Location Section
+--------------------------------------------------------------*/
+.location {
+  .location-info {
+    h3 {
+      color: var(--heading-color);
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 1.5rem;
+    }
+
+    .lead {
+      font-size: 1.2rem;
+      color: var(--default-color);
+      margin-bottom: 2.5rem;
+      line-height: 1.6;
+    }
+  }
+
+  .location-highlights {
+    .highlight-item {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 2rem;
+      padding: 1.5rem;
+      background: var(--surface-color);
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      transition: all 0.3s ease;
+
+      &:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+      }
+
+      .icon {
+        background: color-mix(in srgb, var(--accent-color), transparent 90%);
+        color: var(--accent-color);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 1.25rem;
+        font-size: 1.5rem;
+        flex-shrink: 0;
+      }
+
+      .content {
+        h5 {
+          color: var(--heading-color);
+          font-size: 1.2rem;
+          font-weight: 600;
+          margin-bottom: 0.5rem;
+        }
+
+        p {
+          color: var(--default-color);
+          margin: 0;
+          line-height: 1.5;
+        }
+      }
+    }
+  }
+
+  .attractions-grid {
+    h4 {
+      color: var(--heading-color);
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+
+    .attraction-card {
+      background: var(--surface-color);
+      border-radius: 15px;
+      overflow: hidden;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+      transition: all 0.3s ease;
+
+      &:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+      }
+
+      img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+      }
+
+      .card-content {
+        padding: 1.5rem;
+
+        h6 {
+          color: var(--heading-color);
+          font-size: 1.25rem;
+          font-weight: 600;
+          margin-bottom: 0.5rem;
+        }
+
+        .distance {
+          background: color-mix(in srgb, var(--accent-color), transparent 85%);
+          color: var(--accent-color);
+          padding: 0.25rem 0.75rem;
+          border-radius: 20px;
+          font-size: 0.85rem;
+          font-weight: 500;
+          display: inline-block;
+          margin-bottom: 0.75rem;
+        }
+
+        p {
+          color: var(--default-color);
+          margin: 0;
+          line-height: 1.6;
+          font-size: 0.95rem;
+        }
+      }
+    }
+  }
+
+  .transportation-section {
+    background: linear-gradient(135deg, color-mix(in srgb, var(--accent-color), transparent 95%) 0%, color-mix(in srgb, var(--heading-color), transparent 95%) 100%);
+    padding: 3rem;
+    border-radius: 20px;
+    border: 1px solid color-mix(in srgb, var(--accent-color), transparent 85%);
+
+    h4 {
+      color: var(--heading-color);
+      font-size: 2rem;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+
+    .transport-info {
+      .transport-item {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 2rem;
+        padding: 1.5rem;
+        background: var(--surface-color);
+        border-radius: 12px;
+        box-shadow: 0 3px 15px rgba(0, 0, 0, 0.06);
+        transition: all 0.3s ease;
+
+        &:hover {
+          transform: translateX(10px);
+          box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        i {
+          color: var(--accent-color);
+          font-size: 2rem;
+          margin-right: 1.5rem;
+          flex-shrink: 0;
+          margin-top: 0.25rem;
+        }
+
+        h6 {
+          color: var(--heading-color);
+          font-size: 1.25rem;
+          font-weight: 600;
+          margin-bottom: 0.5rem;
+        }
+
+        p {
+          color: var(--default-color);
+          margin: 0;
+          line-height: 1.6;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    .location-info {
+      h3 {
+        font-size: 2rem;
+      }
+
+      .lead {
+        font-size: 1.1rem;
+      }
+    }
+
+    .attractions-grid {
+      h4 {
+        font-size: 1.75rem;
+      }
+
+      .attraction-card {
+        img {
+          height: 150px;
+        }
+      }
+    }
+
+    .transportation-section {
+      padding: 2rem 1.5rem;
+
+      h4 {
+        font-size: 1.75rem;
+      }
+
+      .transport-info .transport-item {
+        &:hover {
+          transform: none;
+        }
+      }
+    }
+  }
+}

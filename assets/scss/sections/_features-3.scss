@@ -1,0 +1,80 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Features 3 Section
+--------------------------------------------------------------*/
+.features-3 {
+  h3 {
+    color: var(--heading-color);
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
+
+  .icon-box {
+    margin-top: 50px;
+
+    i {
+      color: var(--accent-color);
+      background-color: var(--surface-color);
+      border: 2px solid color-mix(in srgb, var(--accent-color), transparent 60%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 25px;
+      font-size: 32px;
+      width: 64px;
+      height: 64px;
+      border-radius: 50px;
+      transition: 0.5s;
+      line-height: 0;
+    }
+
+    &:hover i {
+      background: var(--accent-color);
+      border-color: var(--accent-color);
+      color: var(--contrast-color);
+    }
+
+    .title {
+      font-weight: 700;
+      margin-bottom: 10px;
+      font-size: 18px;
+
+      a {
+        color: var(--heading-color);
+        transition: 0.3s;
+
+        &:hover {
+          color: var(--accent-color);
+        }
+      }
+    }
+
+    .description {
+      line-height: 24px;
+      font-size: 14px;
+      margin-bottom: 0;
+    }
+  }
+
+  .video-box {
+    min-height: 400px;
+
+    img {
+      position: absolute;
+      inset: 0;
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: 1;
+    }
+  }
+
+  .pulsating-play-btn {
+    position: absolute;
+    left: calc(50% - 47px);
+    top: calc(50% - 47px);
+    z-index: 1;
+  }
+}

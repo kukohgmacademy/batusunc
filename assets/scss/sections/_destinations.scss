@@ -1,0 +1,174 @@
+// main: ../main.scss
+/*--------------------------------------------------------------
+# Destinations Section
+--------------------------------------------------------------*/
+.destinations {
+  .destination-card {
+    background: var(--surface-color);
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    &:hover {
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+      transform: translateY(-5px);
+    }
+  }
+
+  .destination-image {
+    position: relative;
+    overflow: hidden;
+    height: 240px;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    &:hover img {
+      transform: scale(1.05);
+    }
+  }
+
+  .destination-badge {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: var(--accent-color);
+    color: var(--contrast-color);
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+
+    &.hot {
+      background: linear-gradient(135deg, #ff6b6b, #ee5a24);
+    }
+
+    &.new {
+      background: linear-gradient(135deg, #26de81, #20bf6b);
+    }
+  }
+
+  .destination-content {
+    padding: 24px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+
+    h4 {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      color: var(--heading-color);
+    }
+
+    .destination-location {
+      color: color-mix(in srgb, var(--default-color), transparent 30%);
+      font-size: 14px;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+
+      i {
+        color: var(--accent-color);
+      }
+    }
+
+    p {
+      color: color-mix(in srgb, var(--default-color), transparent 20%);
+      font-size: 14px;
+      line-height: 1.6;
+      margin-bottom: 16px;
+      flex: 1;
+    }
+
+    .destination-stats {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      font-size: 12px;
+      color: color-mix(in srgb, var(--default-color), transparent 30%);
+
+      span {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+
+        i {
+          color: var(--accent-color);
+        }
+      }
+
+      .bi-star-fill {
+        color: #ffc107;
+      }
+    }
+
+    .destination-price {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+      margin-bottom: 20px;
+
+      .price-from {
+        font-size: 12px;
+        color: color-mix(in srgb, var(--default-color), transparent 40%);
+        text-transform: uppercase;
+      }
+
+      .price {
+        font-size: 24px;
+        font-weight: 700;
+        color: var(--accent-color);
+      }
+    }
+
+    .btn-explore {
+      background: var(--accent-color);
+      color: var(--contrast-color);
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      text-align: center;
+      transition: all 0.3s ease;
+      border: none;
+      display: inline-block;
+
+      &:hover {
+        background: color-mix(in srgb, var(--accent-color), black 10%);
+        color: var(--contrast-color);
+        transform: translateY(-1px);
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    .destination-image {
+      height: 200px;
+    }
+
+    .destination-content {
+      padding: 20px;
+
+      h4 {
+        font-size: 18px;
+      }
+
+      .destination-price .price {
+        font-size: 20px;
+      }
+    }
+  }
+}

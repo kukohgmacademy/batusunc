@@ -1,0 +1,86 @@
+/*--------------------------------------------------------------
+# Global Sections
+--------------------------------------------------------------*/
+section,
+.section {
+  color: var(--default-color);
+  background-color: var(--background-color);
+  padding: 60px 0;
+  scroll-margin-top: 72px;
+  overflow: clip;
+}
+
+@media (max-width: 1199px) {
+
+  section,
+  .section {
+    scroll-margin-top: 57px;
+  }
+}
+
+/*--------------------------------------------------------------
+# Global Section Titles
+--------------------------------------------------------------*/
+.section-title {
+  padding-bottom: 60px;
+  position: relative;
+
+  h2 {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0;
+    line-height: 1px;
+    margin: 0;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    position: relative;
+
+    &::after {
+      content: "";
+      width: 120px;
+      height: 1px;
+      display: inline-block;
+      background: var(--accent-color);
+      margin: 4px 10px;
+    }
+  }
+
+  p {
+    color: color-mix(in srgb, var(--default-color), transparent 50%);
+    margin: 5px 0 0 0;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--heading-font);
+  }
+}
+
+@import './sections/_hero-3.scss';
+@import './sections/_about-2.scss';
+@import './sections/_features-2.scss';
+@import './sections/_portfolio-2.scss';
+@import './sections/_testimonials.scss';
+@import './sections/_faq.scss';
+@import './sections/_call-to-action.scss';
+@import './sections/_recent-posts.scss';
+@import './sections/_portfolio-4.scss';
+@import './sections/_destination-details-2.scss';
+@import './sections/_starter-section.scss';
+@import './sections/_blog-posts.scss';
+@import './sections/_blog-pagination.scss';
+@import './sections/_blog-details.scss';
+@import './sections/_hero.scss';
+@import './sections/_destination-details.scss';
+@import './sections/_testimonials-2.scss';
+@import './sections/_faq-2.scss';
+@import './sections/_call-to-action-2.scss';
+@import './sections/_recent-posts-2.scss';
+@import './sections/_about-3.scss';
+@import './sections/_features.scss';
+@import './sections/_features-3.scss';
+@import './sections/_call-to-action-3.scss';
+@import './sections/_location.scss';
+@import './sections/_destinations.scss';
+@import './sections/_tours.scss';
+@import './sections/_call-to-action-4.scss';
+@import './sections/_tour-details.scss';
+@import './sections/_tour-details-2.scss';
