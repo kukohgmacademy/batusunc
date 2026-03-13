@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /assets/vendor/
+Disallow: /assets/scss/
+Disallow: /forms/
+Disallow: /check_schema.ps1
+Disallow: /fix_*.ps1
+Disallow: /mentahan.html
+Disallow: /*.docx$
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://batusunrisecamp.com/sitemap.xml
+
+# Host
+Host: https://batusunrisecamp.com
