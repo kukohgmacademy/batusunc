@@ -625,4 +625,35 @@
       <image:title>Lokasi Camping Terbaik di Batu untuk Wisatawan</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-di-batu.html</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/perlengkapan-camping-tenda.webp</image:loc>
+      <image:title>Perlengkapan Wajib Camping di Batu, Jangan Sampai Lupa</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/tips-aman-camping-kawasan-pegunungan-batu.html</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/tips-aman-camping-cuaca.webp</image:loc>
+      <image:title>Tips Aman Camping di Kawasan Pegunungan Batu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/panduan-memilih-lokasi-camping-ground-jawa-timur.html</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/camping-ground-jawa-timur-tenda.webp</image:loc>
+      <image:title>Panduan Lengkap Memilih Lokasi Camping Ground Jawa Timur</image:title>
+    </image:image>
+  </url>
 </urlset>
+
