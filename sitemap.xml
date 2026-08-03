@@ -655,5 +655,25 @@
       <image:title>Panduan Lengkap Memilih Lokasi Camping Ground Jawa Timur</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/rekomendasi-camping-ground-malang-jawa-timur.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/camping-ground-malang-perbukitan.webp</image:loc>
+      <image:title>Rekomendasi Camping Ground di Malang Jawa Timur</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/biaya-camping-ground-jawa-timur.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/biaya-camping-ground-tenda-sewa.webp</image:loc>
+      <image:title>Biaya Camping Ground di Jawa Timur, Ini Kisarannya</image:title>
+    </image:image>
+  </url>
 </urlset>
 
