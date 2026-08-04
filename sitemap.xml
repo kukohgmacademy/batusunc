@@ -675,5 +675,25 @@
       <image:title>Biaya Camping Ground di Jawa Timur, Ini Kisarannya</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/tips-memilih-perlengkapan-camping-jawa-timur.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/perlengkapan-camping-jawa-timur-tas.webp</image:loc>
+      <image:title>Tips Memilih Perlengkapan Camping di Jawa Timur</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-sewa-tenda-dome.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/tenda-dome-outdoor.webp</image:loc>
+      <image:title>Panduan Lengkap dan Praktis Sewa Tenda Dome</image:title>
+    </image:image>
+  </url>
 </urlset>
 
