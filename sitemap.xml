@@ -845,4 +845,24 @@
       <image:title>Tips Memilih Paket Camping Ground di Batu untuk Keluarga</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/panduan-makanan-camping-gunung.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/logistik-perbekalan-carrier-pendakian-indonesia.webp</image:loc>
+      <image:title>Panduan Lengkap Memilih dan Menyiapkan Bekal Makanan untuk Camping di Gunung</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/camilan-ringan-pendakian-gunung.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/camilan-pendakian-gunung.webp</image:loc>
+      <image:title>Camilan Ringan untuk Pendakian Gunung yang Praktis dan Tinggi Energi</image:title>
+    </image:image>
+  </url>
 </urlset>
