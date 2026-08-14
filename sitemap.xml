@@ -885,4 +885,24 @@
       <image:title>Kesalahan Menyiapkan Bekal Makanan Naik Gunung yang Perlu Dihindari</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-peralatan-buat-camping.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/peralatan-camping-lengkap.webp</image:loc>
+      <image:title>Panduan Lengkap Peralatan Buat Camping</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/cara-memilih-tenda-camping-yang-tepat.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/tenda-double-layer.webp</image:loc>
+      <image:title>Cara Memilih Tenda Camping yang Tepat</image:title>
+    </image:image>
+  </url>
 </urlset>
