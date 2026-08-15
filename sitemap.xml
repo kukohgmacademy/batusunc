@@ -905,4 +905,24 @@
       <image:title>Cara Memilih Tenda Camping yang Tepat</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-peralatan-masak-camping.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/kompor-portable-camping.webp</image:loc>
+      <image:title>Panduan Lengkap Peralatan Masak Camping 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/panduan-memilih-sleeping-bag-matras-camping.html</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/sleeping-bag-camping.webp</image:loc>
+      <image:title>Panduan Memilih Sleeping Bag dan Matras Camping</image:title>
+    </image:image>
+  </url>
 </urlset>
