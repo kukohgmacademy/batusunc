@@ -985,4 +985,24 @@
       <image:title>Rekomendasi Tempat Camping Terbaik di Malang</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/biaya-tarif-tempat-perkemahan-di-malang.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/loket-tiket-masuk-camping-malang.webp</image:loc>
+      <image:title>Biaya dan Tarif Tempat Perkemahan di Malang</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/tips-perlengkapan-camping-di-malang-pemula.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/persiapan-alat-camping-malang.webp</image:loc>
+      <image:title>Tips dan Perlengkapan Camping di Malang untuk Pemula</image:title>
+    </image:image>
+  </url>
 </urlset>
