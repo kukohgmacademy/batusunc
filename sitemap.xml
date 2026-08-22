@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -1003,6 +1003,26 @@
     <image:image>
       <image:loc>https://batusunrisecamp.com/assets/img/persiapan-alat-camping-malang.webp</image:loc>
       <image:title>Tips dan Perlengkapan Camping di Malang untuk Pemula</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/tempat-camping-di-solo.html</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/camping-lereng-lawu-2026.webp</image:loc>
+      <image:title>Tempat Camping di Solo: 10 Lokasi Terbaik dan Terdekat 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/rekomendasi-camping-ground-keluarga-pemula-solo.html</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/camping-keluarga-sekipan.webp</image:loc>
+      <image:title>Rekomendasi Camping Ground Keluarga dan Pemula di Solo 2026</image:title>
     </image:image>
   </url>
 </urlset>
