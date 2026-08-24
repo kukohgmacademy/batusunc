@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -1023,6 +1023,26 @@
     <image:image>
       <image:loc>https://batusunrisecamp.com/assets/img/camping-keluarga-sekipan.webp</image:loc>
       <image:title>Rekomendasi Camping Ground Keluarga dan Pemula di Solo 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/biaya-camping-di-solo.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/simulasi-biaya-camping.webp</image:loc>
+      <image:title>Biaya Camping di Solo: Simulasi dan Tips Hemat 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-di-solo.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/perlengkapan-camping-dasar.webp</image:loc>
+      <image:title>Perlengkapan Wajib Camping di Solo: Panduan Persiapan 2026</image:title>
     </image:image>
   </url>
 </urlset>
