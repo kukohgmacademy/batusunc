@@ -1105,4 +1105,24 @@
       <image:title>Harga Tiket Camping di Kediri 2026, Lengkap per Lokasi</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/camping-di-gunung-wilis-kediri.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/camping-gunung-wilis-kediri.webp</image:loc>
+      <image:title>Camping di Gunung Wilis Kediri, Lokasi dan Panduan 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/perlengkapan-camping-di-kediri-pemula.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/perlengkapan-camping-kediri-pemula.webp</image:loc>
+      <image:title>Perlengkapan Camping di Kediri untuk Pemula yang Wajib Tahu</image:title>
+    </image:image>
+  </url>
 </urlset>
