@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -1263,6 +1263,26 @@
     <image:image>
       <image:loc>https://batusunrisecamp.com/assets/img/suasana-camping-pantai-tlocor.webp</image:loc>
       <image:title>Rekomendasi Camping Pantai di Sidoarjo Terbaru</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/tips-camping-keluarga-di-sidoarjo.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/camping-keluarga-wonorejo-sidoarjo.webp</image:loc>
+      <image:title>Tips Camping Keluarga di Sidoarjo yang Nyaman</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/tempat-sewa-alat-camping-di-sidoarjo.html</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/paket-sewa-alat-camping-lengkap-sidoarjo.webp</image:loc>
+      <image:title>Tempat Sewa Alat Camping di Sidoarjo</image:title>
     </image:image>
   </url>
 </urlset>
