@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -1383,6 +1383,26 @@
     <image:image>
       <image:loc>https://batusunrisecamp.com/assets/img/suasana-camping-hutan-pinus-batu.webp</image:loc>
       <image:title>Camping Hutan Pinus vs Teletubbies Batu, Pilih Mana?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/sewa-campervan-batu-lepas-kunci-vs-plus-driver</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/sewa-campervan-lepas-kunci-batu.webp</image:loc>
+      <image:title>Sewa Campervan Batu, Lepas Kunci vs Plus Driver</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/wisata-edukasi-lingkungan-saat-camping-untuk-anak</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/edukasi-lingkungan-camping-anak.webp</image:loc>
+      <image:title>Wisata Edukasi Lingkungan saat Camping untuk Anak</image:title>
     </image:image>
   </url>
 </urlset>
