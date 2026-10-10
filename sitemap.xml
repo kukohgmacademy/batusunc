@@ -1775,4 +1775,24 @@
       <image:title>Rincian Komponen dan Cara Menghitungnya Biaya Glamping Pantai dan Camping Biasa</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/fasilitas-glamping-pantai</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/fasilitas-glamping-pantai.webp</image:loc>
+      <image:title>Fasilitas Glamping Pantai: Apa Saja yang Umumnya Disediakan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/perlengkapan-camping-pantai</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/perlengkapan-camping-pantai-di-atas-pasir.webp</image:loc>
+      <image:title>Perlengkapan Camping Pantai: Daftar Wajib dan Tips Keselamatan</image:title>
+    </image:image>
+  </url>
 </urlset>
