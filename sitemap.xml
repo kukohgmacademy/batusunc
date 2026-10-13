@@ -1815,4 +1815,24 @@
       <image:title>Cara Menemukan Lokasi Camping Pantai Tersembunyi dengan Aman dan Akurat</image:title>
     </image:image>
   </url>
-</urlset>
+  <url>
+    <loc>https://batusunrisecamp.com/perlengkapan-camping-di-pantai</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/tenda-camping-pantai-berangin.webp</image:loc>
+      <image:title>Perlengkapan Camping di Pantai: Daftar Lengkap untuk Lokasi Terpencil</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/tips-aman-camping-di-pantai-terpencil</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/membaca-prakiraan-gelombang-bmkg.webp</image:loc>
+      <image:title>Tips Aman Camping di Pantai Terpencil</image:title>
+    </image:image>
+  </url>
+</urlset>
