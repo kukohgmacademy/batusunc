@@ -1835,4 +1835,24 @@
       <image:title>Tips Aman Camping di Pantai Terpencil</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://batusunrisecamp.com/trik-mencegah-pasir-masuk-tenda</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/tenda-camping-terlindung-angin.webp</image:loc>
+      <image:title>Panduan Trik Mencegah Pasir Masuk Tenda</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/cara-memilih-lokasi-tenda-di-area-berpasir</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/memilih-lokasi-tenda-terlindung-vegetasi.webp</image:loc>
+      <image:title>Cara Memilih Lokasi Tenda di Area Berpasir agar Minim Pasir Masuk</image:title>
+    </image:image>
+  </url>
 </urlset>
