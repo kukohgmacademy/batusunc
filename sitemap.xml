@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -1933,6 +1933,16 @@
     <image:image>
       <image:loc>https://batusunrisecamp.com/assets/img/joran-dan-reel-untuk-memancing.webp</image:loc>
       <image:title>Joran spinning dan reel spinning tertata di atas pasir pantai siap digunakan untuk memancing dari bibir pantai</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/teknik-memancing-di-pantai-saat-camping</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/teknik-memancing-di-pantai-saat-camping.webp</image:loc>
+      <image:title>Pemancing memegang joran di tepi pantai bersiap melempar umpan melewati deburan ombak saat camping</image:title>
     </image:image>
   </url>
 </urlset>
