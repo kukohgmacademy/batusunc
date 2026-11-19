@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -2053,6 +2053,16 @@
     <image:image>
       <image:loc>https://batusunrisecamp.com/assets/img/biaya-menginap-di-pantai-sawarna.webp</image:loc>
       <image:title>Ilustrasi rincian biaya menginap di kawasan wisata Pantai Sawarna Lebak Banten meliputi tarif kamar tiket dan parkir</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://batusunrisecamp.com/cara-memilih-penginapan-di-pantai-sawarna</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/cara-memilih-penginapan-di-pantai-sawarna.webp</image:loc>
+      <image:title>Wisatawan membandingkan pilihan penginapan murah dan homestay di kawasan Pantai Sawarna Lebak Banten</image:title>
     </image:image>
   </url>
 </urlset>
