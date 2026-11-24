@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
@@ -16,7 +16,7 @@
 
   <!-- About -->
   <url>
-    <loc>https://batusunrisecamp.com/about.html</loc>
+    <loc>https://batusunrisecamp.com/about</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -24,7 +24,7 @@
 
   <!-- Paket -->
   <url>
-    <loc>https://batusunrisecamp.com/paket.html</loc>
+    <loc>https://batusunrisecamp.com/paket</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -32,7 +32,7 @@
 
   <!-- Paket Sunrise 1 -->
   <url>
-    <loc>https://batusunrisecamp.com/paket-sunrise1.html</loc>
+    <loc>https://batusunrisecamp.com/paket-sunrise1</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -40,7 +40,7 @@
 
   <!-- Paket Sunrise 2 -->
   <url>
-    <loc>https://batusunrisecamp.com/paket-sunrise2.html</loc>
+    <loc>https://batusunrisecamp.com/paket-sunrise2</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -48,7 +48,7 @@
 
   <!-- Paket Sunrise 3 -->
   <url>
-    <loc>https://batusunrisecamp.com/paket-sunrise3.html</loc>
+    <loc>https://batusunrisecamp.com/paket-sunrise3</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -56,7 +56,7 @@
 
   <!-- Paket Detail -->
   <url>
-    <loc>https://batusunrisecamp.com/paket-detail.html</loc>
+    <loc>https://batusunrisecamp.com/paket-detail</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -64,7 +64,7 @@
 
   <!-- Layanan -->
   <url>
-    <loc>https://batusunrisecamp.com/layanan.html</loc>
+    <loc>https://batusunrisecamp.com/layanan</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -72,7 +72,7 @@
 
   <!-- Galeri -->
   <url>
-    <loc>https://batusunrisecamp.com/galeri.html</loc>
+    <loc>https://batusunrisecamp.com/galeri</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -80,7 +80,7 @@
 
   <!-- Area Camping -->
   <url>
-    <loc>https://batusunrisecamp.com/camping.html</loc>
+    <loc>https://batusunrisecamp.com/camping</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -88,7 +88,7 @@
 
   <!-- Blog -->
   <url>
-    <loc>https://batusunrisecamp.com/blog.html</loc>
+    <loc>https://batusunrisecamp.com/blog</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -96,7 +96,7 @@
 
   <!-- Blog Articles -->
   <url>
-    <loc>https://batusunrisecamp.com/panduan-wisata-hits-kota-batu.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-wisata-hits-kota-batu</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -107,7 +107,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-ground-camping-kota-batu.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-ground-camping-kota-batu</loc>
     <lastmod>2026-03-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -118,7 +118,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/ground-camping-vs-glamping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/ground-camping-vs-glamping-batu</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -129,7 +129,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/panduan-camping-untuk-pemula.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-camping-untuk-pemula</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -140,7 +140,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/healing-estetik-di-batu.html</loc>
+    <loc>https://batusunrisecamp.com/healing-estetik-di-batu</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -151,7 +151,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/camping-keluarga-di-batu-sunrise-camp.html</loc>
+    <loc>https://batusunrisecamp.com/camping-keluarga-di-batu-sunrise-camp</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -162,7 +162,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-sewa-tenda-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-sewa-tenda-camping-batu</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -173,7 +173,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/harga-sewa-tenda-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/harga-sewa-tenda-camping-batu</loc>
     <lastmod>2026-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -184,7 +184,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-terbaik-batu.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-terbaik-batu</loc>
     <lastmod>2026-07-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -195,7 +195,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-batu</loc>
     <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -206,7 +206,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/panduan-perlengkapan-camping-keluarga.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-perlengkapan-camping-keluarga</loc>
     <lastmod>2026-07-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -217,7 +217,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/cara-memilih-tenda-keluarga-camping.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memilih-tenda-keluarga-camping</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -228,7 +228,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-tidur-camping-keluarga.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-tidur-camping-keluarga</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -239,7 +239,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-masak-outdoor-camping-keluarga.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-masak-outdoor-camping-keluarga</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -250,7 +250,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/harga-alat-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/harga-alat-camping-batu</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -261,7 +261,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/perbandingan-harga-sewa-tenda-batu-per-malam.html</loc>
+    <loc>https://batusunrisecamp.com/perbandingan-harga-sewa-tenda-batu-per-malam</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -271,7 +271,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-memilih-toko-alat-outdoor-terpercaya-batu.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memilih-toko-alat-outdoor-terpercaya-batu</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -281,7 +281,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-menghemat-biaya-perlengkapan-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/tips-menghemat-biaya-perlengkapan-camping-batu</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -291,7 +291,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-terbaik-sesuai-kebutuhan.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-terbaik-sesuai-kebutuhan</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -301,7 +301,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-pendakian-gunung.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-pendakian-gunung</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -311,7 +311,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-camping-keluarga.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-camping-keluarga</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -321,7 +321,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-tahan-air-dan-angin-kencang.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-tahan-air-dan-angin-kencang</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -331,7 +331,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-camping-city-light-batu.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-camping-city-light-batu</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -341,7 +341,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-city-light-terbaik-batu.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-city-light-terbaik-batu</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -351,7 +351,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kisaran-biaya-camping-city-light-batu.html</loc>
+    <loc>https://batusunrisecamp.com/kisaran-biaya-camping-city-light-batu</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -361,7 +361,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-waktu-terbaik-camping-city-light-batu.html</loc>
+    <loc>https://batusunrisecamp.com/tips-waktu-terbaik-camping-city-light-batu</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -371,7 +371,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/campervan-batu-malang</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -381,7 +381,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-memilih-campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-memilih-campervan-batu-malang</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -391,7 +391,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kisaran-biaya-sewa-campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/kisaran-biaya-sewa-campervan-batu-malang</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -401,7 +401,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/destinasi-camping-campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/destinasi-camping-campervan-batu-malang</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -411,7 +411,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/aktivitas-outdoor-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/aktivitas-outdoor-camping-batu</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <changefreq>monthly</changefreq>
@@ -423,7 +423,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-tidur-camping-keluarga.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-tidur-camping-keluarga</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -434,7 +434,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-masak-outdoor-camping-keluarga.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-masak-outdoor-camping-keluarga</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -445,7 +445,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/harga-alat-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/harga-alat-camping-batu</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -456,7 +456,7 @@
   </url>
 
   <url>
-    <loc>https://batusunrisecamp.com/perbandingan-harga-sewa-tenda-batu-per-malam.html</loc>
+    <loc>https://batusunrisecamp.com/perbandingan-harga-sewa-tenda-batu-per-malam</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -466,7 +466,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-memilih-toko-alat-outdoor-terpercaya-batu.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memilih-toko-alat-outdoor-terpercaya-batu</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -476,7 +476,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-menghemat-biaya-perlengkapan-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/tips-menghemat-biaya-perlengkapan-camping-batu</loc>
     <lastmod>2026-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -486,7 +486,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-terbaik-sesuai-kebutuhan.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-terbaik-sesuai-kebutuhan</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -496,7 +496,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-pendakian-gunung.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-pendakian-gunung</loc>
     <lastmod>2026-07-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -506,7 +506,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-camping-keluarga.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-untuk-camping-keluarga</loc>
     <lastmod>2026-07-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -516,7 +516,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tenda-tahan-air-dan-angin-kencang.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tenda-tahan-air-dan-angin-kencang</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -526,7 +526,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-camping-city-light-batu.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-camping-city-light-batu</loc>
     <lastmod>2026-07-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -536,7 +536,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-city-light-terbaik-batu.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-city-light-terbaik-batu</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -546,7 +546,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kisaran-biaya-camping-city-light-batu.html</loc>
+    <loc>https://batusunrisecamp.com/kisaran-biaya-camping-city-light-batu</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -556,7 +556,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-waktu-terbaik-camping-city-light-batu.html</loc>
+    <loc>https://batusunrisecamp.com/tips-waktu-terbaik-camping-city-light-batu</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -566,7 +566,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/campervan-batu-malang</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -576,7 +576,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-memilih-campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-memilih-campervan-batu-malang</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -586,7 +586,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kisaran-biaya-sewa-campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/kisaran-biaya-sewa-campervan-batu-malang</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -596,7 +596,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/destinasi-camping-campervan-batu-malang.html</loc>
+    <loc>https://batusunrisecamp.com/destinasi-camping-campervan-batu-malang</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -606,7 +606,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/aktivitas-outdoor-camping-batu.html</loc>
+    <loc>https://batusunrisecamp.com/aktivitas-outdoor-camping-batu</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -616,7 +616,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/lokasi-camping-terbaik-batu.html</loc>
+    <loc>https://batusunrisecamp.com/lokasi-camping-terbaik-batu</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -626,7 +626,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-di-batu.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-di-batu</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -636,7 +636,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-aman-camping-kawasan-pegunungan-batu.html</loc>
+    <loc>https://batusunrisecamp.com/tips-aman-camping-kawasan-pegunungan-batu</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -646,7 +646,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-memilih-lokasi-camping-ground-jawa-timur.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-memilih-lokasi-camping-ground-jawa-timur</loc>
     <lastmod>2026-08-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -656,7 +656,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-camping-ground-malang-jawa-timur.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-camping-ground-malang-jawa-timur</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -666,7 +666,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/biaya-camping-ground-jawa-timur.html</loc>
+    <loc>https://batusunrisecamp.com/biaya-camping-ground-jawa-timur</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -676,7 +676,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-memilih-perlengkapan-camping-jawa-timur.html</loc>
+    <loc>https://batusunrisecamp.com/tips-memilih-perlengkapan-camping-jawa-timur</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -686,7 +686,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-sewa-tenda-dome.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-sewa-tenda-dome</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -696,7 +696,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-memilih-jasa-sewa-tenda-dome.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memilih-jasa-sewa-tenda-dome</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -706,7 +706,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/biaya-sewa-tenda-dome.html</loc>
+    <loc>https://batusunrisecamp.com/biaya-sewa-tenda-dome</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -716,7 +716,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kesalahan-umum-sewa-tenda-dome.html</loc>
+    <loc>https://batusunrisecamp.com/kesalahan-umum-sewa-tenda-dome</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -726,7 +726,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-memilih-tenda-camping-mewah.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-memilih-tenda-camping-mewah</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -736,7 +736,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/harga-tenda-camping-mewah.html</loc>
+    <loc>https://batusunrisecamp.com/harga-tenda-camping-mewah</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -746,7 +746,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-memilih-tenda-camping-mewah.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memilih-tenda-camping-mewah</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -756,7 +756,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-merawat-tenda-camping-mewah.html</loc>
+    <loc>https://batusunrisecamp.com/tips-merawat-tenda-camping-mewah</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -766,7 +766,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-memilih-paket-alat-camping-lengkap.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-memilih-paket-alat-camping-lengkap</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -776,7 +776,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-memilih-paket-alat-camping-lengkap-pemula.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memilih-paket-alat-camping-lengkap-pemula</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -786,7 +786,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/isi-paket-alat-camping-lengkap.html</loc>
+    <loc>https://batusunrisecamp.com/isi-paket-alat-camping-lengkap</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -796,7 +796,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-merawat-menyimpan-paket-alat-camping-lengkap.html</loc>
+    <loc>https://batusunrisecamp.com/tips-merawat-menyimpan-paket-alat-camping-lengkap</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -806,7 +806,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-memilih-paket-camping-ground-batu.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-memilih-paket-camping-ground-batu</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -816,7 +816,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kisaran-biaya-harga-paket-camping-ground-batu.html</loc>
+    <loc>https://batusunrisecamp.com/kisaran-biaya-harga-paket-camping-ground-batu</loc>
     <lastmod>2026-08-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -826,7 +826,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-ground-batu.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-lokasi-camping-ground-batu</loc>
     <lastmod>2026-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -836,7 +836,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-memilih-paket-camping-ground-keluarga-batu.html</loc>
+    <loc>https://batusunrisecamp.com/tips-memilih-paket-camping-ground-keluarga-batu</loc>
     <lastmod>2026-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -846,7 +846,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-makanan-camping-gunung.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-makanan-camping-gunung</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -856,7 +856,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/camilan-ringan-pendakian-gunung.html</loc>
+    <loc>https://batusunrisecamp.com/camilan-ringan-pendakian-gunung</loc>
     <lastmod>2026-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -866,7 +866,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-memasak-makanan-camping-gunung.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memasak-makanan-camping-gunung</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -876,7 +876,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kesalahan-bekal-makanan-naik-gunung.html</loc>
+    <loc>https://batusunrisecamp.com/kesalahan-bekal-makanan-naik-gunung</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -886,7 +886,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-peralatan-buat-camping.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-peralatan-buat-camping</loc>
     <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -896,7 +896,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-memilih-tenda-camping-yang-tepat.html</loc>
+    <loc>https://batusunrisecamp.com/cara-memilih-tenda-camping-yang-tepat</loc>
     <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -906,7 +906,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-peralatan-masak-camping.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-peralatan-masak-camping</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -916,7 +916,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-memilih-sleeping-bag-matras-camping.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-memilih-sleeping-bag-matras-camping</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -926,7 +926,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lokasi-rute-biaya-camping-paralayang-batu.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lokasi-rute-biaya-camping-paralayang-batu</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -936,7 +936,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rute-menuju-camping-paralayang-batu.html</loc>
+    <loc>https://batusunrisecamp.com/rute-menuju-camping-paralayang-batu</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -946,7 +946,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/biaya-paket-camping-paralayang-batu.html</loc>
+    <loc>https://batusunrisecamp.com/biaya-paket-camping-paralayang-batu</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -956,7 +956,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/persiapan-camping-paralayang-batu-pemula.html</loc>
+    <loc>https://batusunrisecamp.com/persiapan-camping-paralayang-batu-pemula</loc>
     <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -966,7 +966,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tempat-perkemahan-di-malang.html</loc>
+    <loc>https://batusunrisecamp.com/tempat-perkemahan-di-malang</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -976,7 +976,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-tempat-camping-terbaik-di-malang.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-tempat-camping-terbaik-di-malang</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -986,7 +986,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/biaya-tarif-tempat-perkemahan-di-malang.html</loc>
+    <loc>https://batusunrisecamp.com/biaya-tarif-tempat-perkemahan-di-malang</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -996,7 +996,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-perlengkapan-camping-di-malang-pemula.html</loc>
+    <loc>https://batusunrisecamp.com/tips-perlengkapan-camping-di-malang-pemula</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1006,7 +1006,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tempat-camping-di-solo.html</loc>
+    <loc>https://batusunrisecamp.com/tempat-camping-di-solo</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1016,7 +1016,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/rekomendasi-camping-ground-keluarga-pemula-solo.html</loc>
+    <loc>https://batusunrisecamp.com/rekomendasi-camping-ground-keluarga-pemula-solo</loc>
     <lastmod>2026-08-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1026,7 +1026,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/biaya-camping-di-solo.html</loc>
+    <loc>https://batusunrisecamp.com/biaya-camping-di-solo</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1036,7 +1036,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-di-solo.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-wajib-camping-di-solo</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1046,7 +1046,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/pesan-tenda-camping.html</loc>
+    <loc>https://batusunrisecamp.com/pesan-tenda-camping</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1056,7 +1056,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-pesan-tenda-camping-online.html</loc>
+    <loc>https://batusunrisecamp.com/cara-pesan-tenda-camping-online</loc>
     <lastmod>2026-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1066,7 +1066,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-memilih-tenda-camping-sebelum-pesan.html</loc>
+    <loc>https://batusunrisecamp.com/tips-memilih-tenda-camping-sebelum-pesan</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1076,7 +1076,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/biaya-sewa-tenda-camping.html</loc>
+    <loc>https://batusunrisecamp.com/biaya-sewa-tenda-camping</loc>
     <lastmod>2026-08-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1086,7 +1086,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tempat-camping-di-kediri.html</loc>
+    <loc>https://batusunrisecamp.com/tempat-camping-di-kediri</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1096,7 +1096,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/harga-tiket-camping-di-kediri.html</loc>
+    <loc>https://batusunrisecamp.com/harga-tiket-camping-di-kediri</loc>
     <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1106,7 +1106,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/camping-di-gunung-wilis-kediri.html</loc>
+    <loc>https://batusunrisecamp.com/camping-di-gunung-wilis-kediri</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1116,7 +1116,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-camping-di-kediri-pemula.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-camping-di-kediri-pemula</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1126,7 +1126,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-bisa-tidur-di-tenda.html</loc>
+    <loc>https://batusunrisecamp.com/cara-bisa-tidur-di-tenda</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1136,7 +1136,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/perlengkapan-wajib-tidur-nyenyak-di-tenda.html</loc>
+    <loc>https://batusunrisecamp.com/perlengkapan-wajib-tidur-nyenyak-di-tenda</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1146,7 +1146,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/cara-mengatasi-dingin-tidur-di-tenda.html</loc>
+    <loc>https://batusunrisecamp.com/cara-mengatasi-dingin-tidur-di-tenda</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1156,7 +1156,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kesalahan-umum-tidur-di-tenda.html</loc>
+    <loc>https://batusunrisecamp.com/kesalahan-umum-tidur-di-tenda</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1166,7 +1166,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-cara-merakit-tenda-camping.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-cara-merakit-tenda-camping</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1176,7 +1176,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/persiapan-sebelum-merakit-tenda-camping.html</loc>
+    <loc>https://batusunrisecamp.com/persiapan-sebelum-merakit-tenda-camping</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1186,7 +1186,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kesalahan-umum-merakit-tenda-camping.html</loc>
+    <loc>https://batusunrisecamp.com/kesalahan-umum-merakit-tenda-camping</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1196,7 +1196,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-memilih-dan-merawat-tenda-camping.html</loc>
+    <loc>https://batusunrisecamp.com/tips-memilih-dan-merawat-tenda-camping</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1206,7 +1206,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/panduan-lengkap-cara-berkemah-agar-menyenangkan.html</loc>
+    <loc>https://batusunrisecamp.com/panduan-lengkap-cara-berkemah-agar-menyenangkan</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1216,7 +1216,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/daftar-perlengkapan-wajib-perjalanan-lancar-berkemah.html</loc>
+    <loc>https://batusunrisecamp.com/daftar-perlengkapan-wajib-perjalanan-lancar-berkemah</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1226,7 +1226,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-berkemah-bersama-keluarga-agar-lebih-seru-dan-nyaman.html</loc>
+    <loc>https://batusunrisecamp.com/tips-berkemah-bersama-keluarga-agar-lebih-seru-dan-nyaman</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1236,7 +1236,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/kesalahan-umum-saat-berkemah-dan-cara-menghindarinya.html</loc>
+    <loc>https://batusunrisecamp.com/kesalahan-umum-saat-berkemah-dan-cara-menghindarinya</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1246,7 +1246,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tempat-camping-di-sidoarjo.html</loc>
+    <loc>https://batusunrisecamp.com/tempat-camping-di-sidoarjo</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1256,7 +1256,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/camping-pantai-di-sidoarjo.html</loc>
+    <loc>https://batusunrisecamp.com/camping-pantai-di-sidoarjo</loc>
     <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1266,7 +1266,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tips-camping-keluarga-di-sidoarjo.html</loc>
+    <loc>https://batusunrisecamp.com/tips-camping-keluarga-di-sidoarjo</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1276,7 +1276,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://batusunrisecamp.com/tempat-sewa-alat-camping-di-sidoarjo.html</loc>
+    <loc>https://batusunrisecamp.com/tempat-sewa-alat-camping-di-sidoarjo</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1693,6 +1693,16 @@
     <image:image>
       <image:loc>https://batusunrisecamp.com/assets/img/jalan-menuju-coban-rondo-pujon.webp</image:loc>
       <image:title>Kendaraan yang Cocok untuk ke Coban Rondo</image:title>
+    </image:image>
+  </url>
+    <url>
+    <loc>https://batusunrisecamp.com/tips-naik-motor-ke-coban-rondo</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://batusunrisecamp.com/assets/img/pengendara-motor-menuju-coban-rondo.webp</image:loc>
+      <image:title>Tips Naik Motor ke Coban Rondo: Jalur, Persiapan, dan Keamanan</image:title>
     </image:image>
   </url>
   <url>
